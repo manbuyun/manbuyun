@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 热爱coding
+- 🌈 专注于大数据 & AI
+
 <!--
 **manbuyun/manbuyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
